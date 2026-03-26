@@ -1,14 +1,14 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "OlteaBot",
     "password": "",
     "type": "offline"
   },
   "server": {
     "ip": "breaslaoltenilor.aternos.me",
     "port": 50613,
-    "version": "",
+    "version": "1.21.11",
     "try-creative": false
   },
   "position": {
@@ -31,9 +31,9 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "Familia Olteanka the best",
+        "Follow la aditz_u!",
+        "I like to play Bautura!"
       ]
     },
     "chat-log": true,
